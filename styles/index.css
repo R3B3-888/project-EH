@@ -1,0 +1,12 @@
+
+.sect-intro-eh {
+    display: flex;
+    /*background: green;*/
+    flex-direction: row;
+    width: 60%;
+    margin: auto;
+}
+
+.sect-intro-eh img {
+    width: 500px;
+}
