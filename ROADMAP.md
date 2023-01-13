@@ -4,9 +4,9 @@
 
 - Rescaling of paintings
 - Home page
-- Integrated the paintings on a grid on galery
+- Integrated the paintings on a grid on gallery
 - optimize the image size for loading
-- push the web site on server ovh with 1and1 elisabeth-hoffmann.fr
+- push the website on server ovh with 1and1 elisabeth-hoffmann.fr
 - figma the site
 - correct open graph link in the head
 
