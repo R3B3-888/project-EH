@@ -2,15 +2,21 @@
 
 ## Upcoming
 
-- Rescaling of paintings
-- Home page
-- Integrated the paintings on a grid on gallery
-- optimize the image size for loading
-- push the website on server ovh with 1and1 elisabeth-hoffmann.fr
-- figma the site
-- correct open graph link in the head
+- [x] Minimal Home page
+- [ ] Rescaling of paintings
+- [ ] Home page
+- [ ] Integrated the paintings on a grid on gallery
+- [ ] optimize the image size for loading
+- [ ] push the website on server ovh with 1and1 elisabeth-hoffmann.fr
+- [ ] figma the site
+- [ ] correct open graph link in the head
 
 ## Ideas
+
+### With Maxime
+
+- Pro Display XDR, painting in salon
+- mise en situation https://www.johnbeckley.com/fr/arts/picta/
 
 ### full static
 

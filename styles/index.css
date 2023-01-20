@@ -1,7 +1,10 @@
 .sect-image-bg {
-    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/paintings_to_cut/RETOUCHED/2004.JPG"), no-repeat scroll center center;
+    background: linear-gradient(rgba(255, 255, 255, 0.5),
+            rgba(255, 255, 255, 0.5)),
+        url("../images/bg-bdx.JPG"),
+        no-repeat scroll center center;
     background-size: cover;
-    height: 90vh;
+    height: 96vh;
     text-align: center;
     display: flex;
     align-items: center;
@@ -14,57 +17,38 @@
 
 .sect-intro-eh {
     width: 85vw;
+    max-width: 800px;
     margin: 15px auto;
 }
 
 .sect-intro-eh .cta {
     width: 100%;
-    text-align: center;
-    margin: 15px 0;
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
 }
-/*.sect-intro-eh img {*/
-/*    display: block;*/
-/*    max-width: 500px;*/
-/*    max-height: 500px;*/
-/*    height: auto;*/
-/*    width: auto;*/
-/*    box-shadow: rgba(0, 0, 0, 0.1) 0 20px 25px -5px, rgba(0, 0, 0, 0.04) 0 10px 10px -5px;*/
-/*}*/
 
-/*.sect-intro-eh h1 {*/
-/*    margin-bottom: 15px;*/
-/*}*/
+.sect-last-project {
+    background-color: white;
+}
 
-/*.sect-intro-eh div {*/
-/*    padding-right: 80px;*/
-/*}*/
+.sect-last-project h2 {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    text-align: center;
+}
 
-/*.sect-intro-eh p {*/
-/*    margin-bottom: 30px;*/
-/*}*/
+.sect-last-project .col-imgs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 95vw;
+    max-width: 800px;
+    grid-gap: 5px;
+    margin: auto;
+}
 
-/*.sect-intro-eh .cta {*/
-/*    display: block;*/
-/*    width: 200px;*/
-/*    margin: auto;*/
-/*}*/
-
-/*.sect-last-project {*/
-/*    background-color: white;*/
-/*}*/
-
-/*.sect-last-project h2 {*/
-/*    margin-bottom: 30px;*/
-/*}*/
-
-/*.sect-last-project div {*/
-/*    display: grid;*/
-/*    grid-template-columns: 1fr 1fr 1fr 1fr;*/
-/*    grid-template-rows: 300px;*/
-/*}*/
-
-/*.sect-last-project div img {*/
-/*    width: 100%;*/
-/*    height: 100%;*/
-/*    object-fit: contain;*/
-/*}*/
+.img-last-project {
+    max-width: 100%;
+}
